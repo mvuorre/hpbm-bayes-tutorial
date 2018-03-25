@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Don't sync to GitHub
+*_cache/
+*_files/
+manuscript/*.docx
+manuscript/*.tex
